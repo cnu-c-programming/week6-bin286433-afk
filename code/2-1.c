@@ -17,10 +17,6 @@ int main() {
         printf("%d ", *(arr+i));
     }
     printf("\n");
-
-    
-
-
-
+    print_arr(arr,5);
     return 0;
 }
